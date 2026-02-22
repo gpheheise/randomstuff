@@ -62,8 +62,8 @@ The Giveaway begins upon publication of the giveaway post and ends on:
 
 Entries received after this time will not be considered.
 
----
 
+---
 ## 6. Prize
 
 The prize consists of:
@@ -74,12 +74,17 @@ The prize:
 
 - Covers the conference ticket only.  
 - Does NOT include travel, flights, transportation, accommodation, visas, insurance, meals, personal expenses, equipment, cancellation insurance, health coverage, or any other cost whatsoever.  
-- Is non-transferable unless permitted by the conference organizer.  
+- Is awarded "as-is" without any warranties, express or implied.  
+- Is non-transferable except where the conference organizer expressly permits transfer.  
+- May not be sold, auctioned, bartered, assigned, pledged, or otherwise exchanged for money or any other consideration.  
 - Has no cash value and no cash alternative.  
-- May not be exchanged or resold.  
+- May not be redeemed, converted, or substituted for monetary payment or reimbursement.  
+- Does not entitle the winner to claim the market value of the ticket in money.  
 - May not be substituted except at the Organizer’s sole and absolute discretion.
 
-All taxes, duties, reporting obligations, and legal compliance requirements are the sole responsibility of the winner.
+The winner shall have no right to demand payment, reimbursement, or compensation in lieu of the ticket under any circumstances.
+
+All taxes, duties, reporting obligations, and legal compliance requirements arising from acceptance or use of the prize are solely the responsibility of the winner.
 
 ---
 
