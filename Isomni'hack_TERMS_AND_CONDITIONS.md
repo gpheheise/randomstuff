@@ -119,13 +119,29 @@ The Organizer’s decision is final and not subject to appeal.
 
 ---
 
-## 9. Winner Notification
+## 9. Winner Contact and Confirmation Procedure
 
-The winner will be contacted via the platform used for entry.
+The initially selected winner will be contacted privately via the platform used for entry (e.g., LinkedIn direct message) before any public announcement is made.
 
-The winner must respond within **48 hours** of notification.
+The selected participant must:
 
-Failure to respond within 48 hours may result in disqualification and selection of an alternate winner at the Organizer’s sole discretion.
+- Confirm receipt of the message within 48 hours;
+- Confirm that they are able and willing to attend the event;
+- Confirm that they have read and agree to these Terms and Conditions.
+
+If the selected participant:
+
+- Does not respond within 48 hours;  
+- Declines the prize;  
+- Is unable to attend;  
+- Fails to confirm agreement to the Terms;  
+- Is found to be ineligible;  
+
+then the Organizer reserves the right to disqualify that participant and conduct a new random selection.
+
+Additional redraws may be conducted as necessary until a confirmed eligible winner is identified.
+
+Only after confirmation by the selected participant will the winner be publicly announced.
 
 ---
 
@@ -186,14 +202,26 @@ Participants may request access to or deletion of their data by contacting the O
 
 ## 14. Modification, Suspension, or Termination
 
-The Organizer reserves the right to modify, suspend, or terminate the Giveaway at any time if:
+The Organizer reserves the right to modify, suspend, or terminate the Giveaway, in whole or in part, at any time prior to the confirmed award of the prize, if circumstances arise that compromise or could reasonably be expected to compromise the fairness, integrity, legality, or proper administration of the Giveaway.
 
-- Legal compliance requires it  
-- Fraud or abuse occurs  
-- Technical failures affect integrity  
-- Force majeure prevents continuation  
-- Any unforeseen circumstance makes continuation impractical  
+Such circumstances may include, but are not limited to:
 
+- Fraud, abuse, or manipulation of the entry process;  
+- Automated or coordinated entry activity;  
+- Technical failures, platform outages, or data corruption;  
+- Legal or regulatory concerns;  
+- Inability to transfer the ticket;  
+- Event cancellation, postponement, or material alteration;  
+- Force majeure events (including but not limited to natural disasters, government restrictions, travel bans, public health events, or civil disturbances);  
+- Any unforeseen circumstance beyond the reasonable control of the Organizer.
+
+In the event of termination prior to winner confirmation, the Organizer shall have no obligation to award the prize and no participant shall have any claim to compensation, damages, or substitute performance.
+
+If modification becomes necessary, such modification shall not retroactively affect already validly submitted eligible entries unless required for legal compliance or integrity of the Giveaway.
+
+The Organizer shall not be liable for any consequences resulting from such modification, suspension, or termination, provided that such action was not taken in bad faith or in violation of mandatory applicable law.
+
+Nothing in this section limits rights that cannot be excluded under mandatory German law.
 No participant shall have claims arising from such modification or termination.
 
 ---
