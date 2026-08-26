@@ -1,7 +1,7 @@
-# Insomni’hack 2026 Ticket Giveaway  
+#  Ticket Giveaway  
 ## Official Terms and Conditions
 
-**Last Updated:** 22 February 2026
+**Last Updated:** 26 August 2026
 
 ---
 
@@ -21,7 +21,7 @@ The Organizer acts in a private capacity. This Giveaway is conducted as a volunt
 This Giveaway is not sponsored, endorsed, administered by, or associated with:
 
 - LinkedIn  
-- Insomni'hack  
+
 
 All trademarks and event rights belong to their respective owners.
 
@@ -68,7 +68,7 @@ Entries received after this time will not be considered.
 
 The prize consists of:
 
-- One (1) conference ticket to Insomni'hack 2026 (March 19–20, Lausanne, Switzerland)
+- One (1) conference ticket to BSides Frankfurt 2026 (September 10/11, Frankfurt, Germany)
 
 The prize:
 
